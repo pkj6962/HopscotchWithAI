@@ -2,19 +2,6 @@
 
 # Hopscotch with AI(땅따먹기) 
 
-### 게임의 프로세스
-
-```
-플레이 난이도 입력
-유저 정보, 맵 정보 초기화
-while(remaining_turs):
-	맵과 카드 출력
-	for(유저의 카드 사용 횟수):
-		유저의 행동(attack or upgrade)
-	AI의 행동(attack or upgrade)
-승패 판별
-```
-
 
 
 ### 맵의 시각적 구현
